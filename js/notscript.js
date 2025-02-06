@@ -3,7 +3,7 @@ const tasks = [
     "Spot a red backpack", "High-five a stranger", "Breathe deeply",
     "Walk on the stairs", "Find a shape in the clouds", "Jump in the air",
     "Find a cool shadow", "Close eyes for 10 sec", "Recognize a smell",
-    "Touch something cold", "Find a heart shape", "Find something purple",
+    "Touch something nocold", "Find a heart shape", "Find something purple",
     "Find a pinecone", "Spot a utility vehicle", "Find a bug",
     "Find an interesting sign", "Walk backwards for 5 steps", "Find a leaf",
     "Find a bird", "Find a stick", "Find a flower", "FREE SPACE"
